@@ -1,2 +1,2 @@
 # mock-demo-repo
-Demo purpose
+Demo purpose. Branch is delete-ops.
